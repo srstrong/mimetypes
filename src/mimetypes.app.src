@@ -8,5 +8,6 @@
                   stdlib
                  ]},
   {mod, { mimetypes_app, []}},
+  {modules, []},
   {env, []}
  ]}.
